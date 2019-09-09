@@ -1,6 +1,6 @@
 # MaskRCNNJupyterSuite
 
-## This repo was meant to be run in a docker container to streamline installation across multiple architectures. We highly recommand that you first create a docker container using the included Dockerfile:
+## This repo was meant to be run in a docker container to streamline installation across multiple architectures. We highly recommand that you first create a docker container using the included Dockerfile. For a 4 part video tutorial series on this repository, visit the link [here](https://www.youtube.com/watch?v=fjgWkoyvLJM&list=PLW53H2fnZNd8Fkt1IQclUyq8oVNAv1TIt):
 
 ```bash
 cd docker
